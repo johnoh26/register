@@ -1,0 +1,10 @@
+{
+  "description": "A developer's TIL (Today I Learned) journal",
+  "repo": "https://github.com/johnoh26/today-i-learned",
+  "owner": {
+    "username": "johnoh26"
+  },
+  "record": {
+    "CNAME": "johnoh26.github.io"
+  }
+}
